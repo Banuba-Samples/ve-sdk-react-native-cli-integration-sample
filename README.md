@@ -17,7 +17,6 @@ Feel free to [contact us](https://www.banuba.com/faq/kb-tickets/new) if you have
 1. Complete React Native [Environment setup](https://reactnative.dev/docs/environment-setup)
 2. Complete [Running On Device](https://reactnative.dev/docs/running-on-device)
 3. Run ```npm install``` or ```yarn install``` in terminal to install dependencies.
-4. Set Banuba license token [within the app](App.js#L12).
 
 ### Run on Android
 1. Make sure variable ```ANDROID_SDK_ROOT``` is set in your environment or configure [sdk.dir](android/local.properties#1).
